@@ -1,3 +1,6 @@
+data.csv
+https://www.kaggle.com/venjktry/simple-linear-regression/data
+
 kuiper.xls
 https://ww2.amstat.org/publications/jse/datasets/kuiper.xls
 

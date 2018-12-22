@@ -1,0 +1,8 @@
+kuiper.xls
+https://ww2.amstat.org/publications/jse/datasets/kuiper.xls
+
+USA_Housing.csv
+https://www.kaggle.com/aariyan101/usa-housingcsv
+
+Ecommerce_Customers.csv
+https://www.kaggle.com/punit0811/machine-learning-project-basic-linear-regression/data
